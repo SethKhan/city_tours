@@ -3,7 +3,7 @@ import Fade from "react-reveal/Fade";
 import haunted_image1 from "../About/haunted1.jpeg";
 import haunted_image2 from "../About/haunted2.jpeg";
 
-//about section by stephania Hoyos npm 
+//About section by Stephania Hoyos npm 
  function About() {
     return (
         <Fade>
